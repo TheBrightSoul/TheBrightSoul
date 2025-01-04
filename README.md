@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍🏫 About Me  
-Hi, I'm **Bright Soul** – an educator, lifelong learner, and aspiring developer with a passion for helping others reach their goals. Born and raised in 🇮🇳 India, I’ve embraced a love for teaching, exploring, and creating, which shapes my journey every day.  
+Hi, I'm **Bright Soul** – an educator, lifelong learner, and aspiring developer with a passion for helping others reach their goals. Born and raised in India, I’ve embraced a love for teaching, exploring, and creating, which shapes my journey every day.  
 
 🎓 After completing my graduation in Computer Science, I’m now focusing on leveraging my skills in coding, editing, and troubleshooting to make a meaningful impact.  
 
